@@ -4,7 +4,7 @@ Player de música desenvolvido no Desafio #01 do BoraCodar da Rocketseat.
   <img alt="Foto do Mini do portfolio" src=".github/preview.png" width="100%">
 </p>
 
-[Clique aqui para acessar](https://marqueba.github.io/player-musica/)
+[Clique aqui para acessar](https://marqueba.github.io/music-player/)
 
 ## 🚀 Tecnologias
 
